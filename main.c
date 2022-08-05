@@ -2,14 +2,13 @@
 #include <string.h>
 
 void tong(){
-    auto int a = 5;
+    auto int a = 2;
     a++;
     printf("\n%d", a);
 }
 
 int main(int argc, char const *argv[])
 {
-    tong();
     tong();
     tong();
 
